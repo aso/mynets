@@ -1,0 +1,2 @@
+# Limit 10MB
+LimitRequestBody 10485760
